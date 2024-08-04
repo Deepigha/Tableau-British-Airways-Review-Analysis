@@ -12,6 +12,7 @@ Based on the ratings, what are the most important factors influencing customer s
 2. Connected Excel file to Tableau report.
 3. Created all visible charts to provide analysis on each respective question.
 4. Published to company Tableau Server page https://public.tableau.com/app/profile/deepigha/viz/BritishAirwaysReviewAnalysis_17226453043260/Dashboard1
+
 ![image](https://github.com/user-attachments/assets/e3b181eb-31fa-4763-8d01-5a21001f2f0f)
 
 ### Dashboard Breakdown:
