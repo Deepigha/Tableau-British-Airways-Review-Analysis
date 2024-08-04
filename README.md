@@ -1,7 +1,7 @@
 # Tableau-British-Airways-Review-Analysis
 This project provides a comprehensive review of British Airways customer feedback, offering actionable insights to improve service quality and passenger experience. The analysis leverages data visualization using Tableau to clearly present findings and support strategic decision-making.
 
-### The dhashboard answers the following business question
+### The dashboard answers the following business question
 What are the overall sentiment and satisfaction levels of British Airways passengers?
 How do different aspects such as Overall rating, Food, Entertainment and Value for money affect customer satisfaction?
 Which areas have the highest and lowest average ratings, indicating significant performance gaps?
